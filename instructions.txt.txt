@@ -1,1 +1,2 @@
 stories of dev A and dev B
+stories of developer A
